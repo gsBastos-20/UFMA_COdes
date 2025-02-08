@@ -7,4 +7,4 @@ for i in range(1, 5):
     if peso <= menor:
         menor = peso
 print(f"o maior peso é {maior}")
-print(f"o menor peso é {menor}")
+print(f"o menor peso é ")
